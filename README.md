@@ -1,1 +1,1 @@
-# Algorithm Study
+# Problem Solving with JAVA
